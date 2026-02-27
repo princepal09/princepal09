@@ -8,9 +8,9 @@
 
 <h2 align="left">About me</h2>
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" align="left" valign="top">
 
 🌍 Building responsive and scalable web applications  
 📚 Currently improving: DSA, System Design & Problem Solving  
@@ -20,9 +20,9 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="right" valign="top">
 
-<img height="200" src="https://i.pinimg.com/736x/ae/31/c8/ae31c8133ba753a0fd618a50bf78f56d.jpg" />
+<img src="https://i.pinimg.com/736x/ae/31/c8/ae31c8133ba753a0fd618a50bf78f56d.jpg" height="200"/>
 
 </td>
 </tr>
