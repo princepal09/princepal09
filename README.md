@@ -67,8 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princepal09&show_icons=true&theme=dracula&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal09&layout=compact&theme=dracula&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=princepal09&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal09&layout=compact&theme=dracula" height="165"/>
 </div>
 
 ###
