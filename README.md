@@ -67,17 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princepal09&show_icons=true&theme=dracula" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepal09&layout=compact&theme=dracula" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal09&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princepal09/princepal09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/princepal09/princepal09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/princepal09/princepal09/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
