@@ -22,7 +22,7 @@
  
 <p align="left">🌍 Building responsive and scalable web applications  <br>📚 Currently improving: DSA, System Design & Problem Solving  <br>🎯 Aspiring Software Engineer  <br>⚡ Passionate about clean code & continuous learning<br>📫 How to reach me: princepal262501@gmail.com</p> 
 
-### 
+###  
 
 <h2 align="left">Language And Tools</h2> 
 
