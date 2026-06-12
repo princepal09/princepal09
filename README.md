@@ -1,94 +1,137 @@
-<h1 align="left">Hi there, I'm Prince👋</h1>  
-     
-###
- 
-<p align="left">I am a Full Stack Developer</p> 
-  
-### 
-  
-<br clear="both">    
-
-<div align="center">   
-  <img height="200" src="https://i.pinimg.com/736x/ae/31/c8/ae31c8133ba753a0fd618a50bf78f56d.jpg"  />   
-</div> 
-   
-### 
-   
-<h2 align="left">About me</h2>    
-  
-### 
-       
-<br clear="both">        
-  
-<p align="left">🌍 Building responsive and scalable web applications  <br>📚 Currently improving: DSA, System Design & Problem Solving  <br>🎯 Aspiring Software Engineer  <br>⚡ Passionate about clean code & continuous learning<br>📫 How to reach me: princepal262501@gmail.com</p> 
-
-###  
-
-<h2 align="left">Language And Tools</h2> 
-
-###
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
+```markdown
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princepal09&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C&text=Prince%20Pal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=55"/>
 
-<div align="left">
- <a href="https://www.linkedin.com/in/princepal09" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Aspiring+Software+Engineer;MERN+Stack+Enthusiast;Building+Scalable+Products;Always+Learning+Always+Growing" />
+
+<br/>
+
+![](https://img.shields.io/badge/BCA-Soban%20Singh%20Jeena%20University-6A0DAD?style=for-the-badge)
+![](https://img.shields.io/badge/MCA-Pursuing%20(2025--2027)-5A189A?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-4B0082?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Nainital,%20India-3C096C?style=for-the-badge)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/princepal09">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="https://instagram.com/iprince_pal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/iprince_pal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
- 
+
+<a href="mailto:princepal262501@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/princepal09">
+<img src="https://img.shields.io/badge/GitHub-Follow-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=princepal09&style=for-the-badge&color=6A0DAD)
+![](https://img.shields.io/github/followers/princepal09?style=for-the-badge&color=7B2CBF&label=Followers)
+![](https://img.shields.io/github/stars/princepal09?affiliations=OWNER&style=for-the-badge&color=5A189A)
+
 </div>
 
-###
+---
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=princepal09.princepal09&"  />
-</div>
+# About Me
 
-###
+I am **Prince Pal**, a Full Stack Developer with a strong passion for building scalable digital products and solving real-world problems through software engineering.
+
+With hands-on experience in the MERN ecosystem, I focus on writing maintainable code, designing efficient systems, and delivering user-centric applications with a product-first mindset.
+
+I enjoy transforming ideas into impactful solutions while continuously improving my expertise in data structures, algorithms, system design, and modern development practices.
+
+### What I Bring
+
+- Building responsive and scalable web applications
+- Strong interest in product engineering
+- Continuous learning mindset
+- Problem-solving through clean code
+- Passion for full stack development
+- Collaboration and ownership mentality
+
+### Open To
+
+- Software Engineer Roles
+- Full Stack Developer Roles
+- SDE Internships
+- Graduate Opportunities
+- Open Source Collaborations
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,cpp,python,html,css" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|-----------|
+| Machine Learning Fundamentals | Beginner | Understanding of supervised and unsupervised concepts |
+| Generative AI | Beginner | Exploring modern LLM applications |
+| Prompt Engineering | Intermediate | Creating effective prompts for productivity |
+| AI Productivity Tools | Intermediate | Leveraging AI to improve workflows |
+| Data Analysis | Beginner | Foundational understanding using Python |
+| Responsible AI | Beginner | Interest in ethical AI practices |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>StudyNotion – Full Stack EdTech Platform</b></summary>
+
+### Project Overview
+
+StudyNotion is a scalable MERN-based EdTech platform designed to bridge the gap between instructors and learners by enabling seamless course creation, enrollment, and learning experiences.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | React, Node.js, Express.js, MongoDB |
+| Scale | Multi-user learning platform |
+| Performance | Optimized API workflows |
+| Security | Authentication and protected routes |
+| Impact | Improved learning accessibility |
+| Repository | Add Repository URL |
+
+### Highlights
+
+- User authentication and authorization
+- Student and instructor dashboards
+- Course management workflows
+- Responsive user experience
+- REST API integration
+- Modular backend architecture
+
+</details>
+
+---
+```
