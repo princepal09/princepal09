@@ -66,14 +66,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/princepal09/princepal09/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div align="left">
-  <a href="www.linkedin.com/in/princepal09" target="_blank">
+  <a href="https://www.linkedin.com/in/princepal09">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:princepal262501@gmail.com" target="_blank">
