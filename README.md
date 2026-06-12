@@ -1,137 +1,24 @@
-```markdown
-<div align="center">
+# 💫 About Me:
+- 🔭 I’m currently working on **StudyNotion – a MERN-based EdTech Platform**<br>- 🌱 I’m currently learning **Data Structures & Algorithms, System Design, and Cloud Fundamentals**<br>- 💬 Ask me about **MERN Stack, and Full Stack Development**<br>- 👯 I’m looking to collaborate on **Open Source and Full Stack Projects**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:5A189A,100:3C096C&text=Prince%20Pal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Aspiring+Software+Engineer;MERN+Stack+Enthusiast;Building+Scalable+Products;Always+Learning+Always+Growing" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iprince_pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princepal09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princepal262501@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=princepal09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=princepal09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=princepal09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://img.shields.io/badge/BCA-Soban%20Singh%20Jeena%20University-6A0DAD?style=for-the-badge)
-![](https://img.shields.io/badge/MCA-Pursuing%20(2025--2027)-5A189A?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-4B0082?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Nainital,%20India-3C096C?style=for-the-badge)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=princepal09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/princepal09">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:princepal262501@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/princepal09">
-<img src="https://img.shields.io/badge/GitHub-Follow-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=princepal09&style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/followers/princepal09?style=for-the-badge&color=7B2CBF&label=Followers)
-![](https://img.shields.io/github/stars/princepal09?affiliations=OWNER&style=for-the-badge&color=5A189A)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=princepal09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=princepal09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# About Me
-
-I am **Prince Pal**, a Full Stack Developer with a strong passion for building scalable digital products and solving real-world problems through software engineering.
-
-With hands-on experience in the MERN ecosystem, I focus on writing maintainable code, designing efficient systems, and delivering user-centric applications with a product-first mindset.
-
-I enjoy transforming ideas into impactful solutions while continuously improving my expertise in data structures, algorithms, system design, and modern development practices.
-
-### What I Bring
-
-- Building responsive and scalable web applications
-- Strong interest in product engineering
-- Continuous learning mindset
-- Problem-solving through clean code
-- Passion for full stack development
-- Collaboration and ownership mentality
-
-### Open To
-
-- Software Engineer Roles
-- Full Stack Developer Roles
-- SDE Internships
-- Graduate Opportunities
-- Open Source Collaborations
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,cpp,python,html,css" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|-----------|
-| Machine Learning Fundamentals | Beginner | Understanding of supervised and unsupervised concepts |
-| Generative AI | Beginner | Exploring modern LLM applications |
-| Prompt Engineering | Intermediate | Creating effective prompts for productivity |
-| AI Productivity Tools | Intermediate | Leveraging AI to improve workflows |
-| Data Analysis | Beginner | Foundational understanding using Python |
-| Responsible AI | Beginner | Interest in ethical AI practices |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>StudyNotion – Full Stack EdTech Platform</b></summary>
-
-### Project Overview
-
-StudyNotion is a scalable MERN-based EdTech platform designed to bridge the gap between instructors and learners by enabling seamless course creation, enrollment, and learning experiences.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | React, Node.js, Express.js, MongoDB |
-| Scale | Multi-user learning platform |
-| Performance | Optimized API workflows |
-| Security | Authentication and protected routes |
-| Impact | Improved learning accessibility |
-| Repository | Add Repository URL |
-
-### Highlights
-
-- User authentication and authorization
-- Student and instructor dashboards
-- Course management workflows
-- Responsive user experience
-- REST API integration
-- Modular backend architecture
-
-</details>
-
----
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
