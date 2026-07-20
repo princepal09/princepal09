@@ -15,7 +15,7 @@
 
 ## 🌐 Portfolio 
 
-<p align="left">
+<p align="left"> 
 🚀 Check out my portfolio: 
 <a href="https://portfolio-beta-six-48.vercel.app/" target="_blank"> 
 Portfolio 
