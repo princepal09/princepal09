@@ -12,12 +12,10 @@
   <img height="200"  src="https://i.pinimg.com/736x/ae/31/c8/ae31c8133ba753a0fd618a50bf78f56d.jpg"  />   
 </div> 
  
-<p align="left">  
-🚀 Check out my  
-<a href="https://princepal.vercel.app/" target="_blank"> 
-Portfolio  
-</a>
-</p>   
+<p align="left">
+   Check out my
+  <a href="https://princepal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat" alt="Portfolio"></a>
+</p>
      
 ###
   
