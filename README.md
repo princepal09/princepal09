@@ -13,9 +13,9 @@
 </div> 
  
 <p align="left">  
-🚀 Check out my portfolio:   
+🚀 Check out my  
 <a href="https://princepal.vercel.app/" target="_blank"> 
-🌐 Portfolio  
+Portfolio  
 </a>
 </p>   
      
