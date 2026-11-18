@@ -14,7 +14,7 @@
  
 <p align="left">
    Check out my
-  <a href="https://princepal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat" alt="Portfolio"></a>
+  <a href="https://princepal.tech/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat" alt="Portfolio"></a>
 </p>
      
 ###
