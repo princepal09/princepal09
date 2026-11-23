@@ -17,7 +17,7 @@
   <a href="https://princepal.tech/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat" alt="Portfolio"></a>
 </p> 
      
-###
+### 
   
 <h2 align="left">About me</h2> 
  
