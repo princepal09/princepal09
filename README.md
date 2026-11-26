@@ -62,9 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bullmq/bullmq-original.svg" height="40" alt="BullMQ" />
-<img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO" />
   <img width="12" />
 
